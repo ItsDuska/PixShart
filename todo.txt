@@ -1,0 +1,18 @@
+Mitä softan pitäs pystyä tekemään.
+
+Pähkinänkuoressa aseprite klooni.
+
+
+Pää asiat mitä homma tekee:
+
+-Pixel artin luominen
+-kuvan zoomaaminen
+-gif tiedoston luominen.
+-oma tideosto tyyppi. (sama mikä on asepritellä .ase tiedosto tyyppi)
+-layerit
+-animaation luominen.
+-png tai jpg tiedostojen lukeminen ja avaaminen / lukeminen.
+-ämpäri työkalu
+-undo näppäin eli ctrl + z
+-blending työkalu
+-shiftiä painamalla + hiiren näppäimen painaminen pohjassa saa suoran viivan
